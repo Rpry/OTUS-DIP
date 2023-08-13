@@ -1,6 +1,6 @@
 namespace DIP.withDIP
 {
-    public class UserRepository: IUserRepository
+    public class UserRepository : IUserRepository
     {
         
     }
